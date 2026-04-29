@@ -141,6 +141,7 @@ This project supports:
 pip install -r requirements.txt
 python retrain.py
 python app.py
+
 📁 Project Structure
 INEQUALITY_ANALYTICS_PROJECT/
 │
@@ -150,11 +151,12 @@ INEQUALITY_ANALYTICS_PROJECT/
 ├── requirements.txt
 ├── Dockerfile
 ├── README.md
+
 📌 Conclusion
 Income inequality analyzed successfully
 ML model predicts income category
 Dashboard provides clear insights
 Supports SDG Goal 10
-🙌 Author
 
+🙌 Author
 Parimala.S
